@@ -1,0 +1,212 @@
+
+* {
+        margin:0;
+        padding:0;
+}
+
+/*@page { */
+/*  margin-top: 1.00cm ; /*4.90cmreginaldo  3.20cm  3.70*/
+/*}*/
+
+
+
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;*/
+	font-size: 8pt;
+	color: #000000;
+	margin:0;
+	padding:0;
+}
+
+
+.pagina {
+	margin: 0px auto;
+	page-break-after:always;
+}
+
+.laudo {
+	margin: 0px auto;
+	/*page-break-after:always;*/
+}
+
+.corpo_exame{
+	
+	margin: 0 auto;
+	page-break-after:always;
+}
+
+.cabecalho {
+	
+	border: 1px solid #000;
+	
+}
+
+.cabecalho th {
+	
+	font-weight: bold;
+	text-align: left;
+	
+}
+
+.cabecalho td {
+	
+	white-space:nowrap;
+	overflow: hidden;
+	vertical-align:baseline;
+	
+}
+
+.identificacao-laboratorio {
+	text-align: center;
+	margin-bottom: 1em;
+}
+
+.identificacao-laboratorio h1 { font-size: 1.2em }
+.identificacao-laboratorio h2 { font-size: 1em }
+.identificacao-laboratorio h3 { font-size: 1em }
+
+.identificacao-laboratorio table {
+	border: none;
+}
+
+.logo-gov {
+	margin-right: 10px;
+}
+
+.logo-ses {
+	margin-left: 10px;
+}
+
+.page-container {
+	margin: 0 auto;
+	page-break-after:always;
+}
+
+.borda-simples {
+	border: 1px solid #000;
+}
+
+table.bordasimples tr td {text-align:center; border:1px solid #000;}
+
+
+.titulo-exame-complementar {
+	border: 1px solid #000;
+	margin:1em auto;
+	font: bold 1.2em Verdana, Arial, Helvetica, sans-serif;
+	padding: .2em 0;
+	text-align:center;
+}
+
+
+.titulo-cancelado {
+	border: 1px solid #000;
+	margin:3em auto;
+	font: bold 1.2em Verdana, Arial, Helvetica, sans-serif;
+	padding: .2em 0;
+	text-align:center;
+	background-color: #D3D3D3
+}
+
+
+.resultado-container {
+	padding: .2em;
+	border: .1em solid  #000;
+}
+
+.wrapper {
+	clear: both;
+	height:.1em;
+	line-height:.1em;
+	font-size:.1em;
+}
+
+
+
+.assinatura {
+	margin-top: 1em;
+	text-align:right;
+}
+
+.pesquisa-titulo-exame {
+	
+	font-size:1.2em;
+	font-weight: bold;
+	
+}
+
+.pesquisa-exame {
+	/*border: 1px solid #000;*/
+	margin-bottom: 2.3em ;
+	
+	
+	
+}
+
+
+.corpo-notificacao {}
+
+.corpo-notificacao th {
+	
+	text-align:left;
+	
+}
+
+.linha {
+	
+	padding:.3em 0;
+}
+
+
+.cabecalho_exame{
+	
+	border: 1px solid #000;
+	font-size: 1.0em;
+
+}
+
+.cabecalho_exame th {
+	
+	font-weight: bold;
+	text-align: left;
+	
+}
+
+.cabecalho_exame td {
+	
+	white-space:nowrap;
+	overflow: hidden;
+	vertical-align:baseline;
+	
+}
+
+.identificacao-laboratorio_exame {
+	text-align: center;
+	margin-bottom: 1em;
+}
+
+.identificacao-laboratorio_exame h1 { font-size: 1.1em }
+.identificacao-laboratorio_exame h2 { font-size: 1.1em }
+.identificacao-laboratorio_exame h3 { font-size: 0.7em }
+
+.identificacao-laboratorio_exame table {
+	border: none;
+	text-align: center;
+	font-size: 1.0em 
+
+}
+
+.titulo-exame {
+	border: 1px solid #000;
+	margin:0.7em auto;
+	font: bold 1.1em Verdana, Arial, Helvetica, sans-serif;
+	padding: .2em 0;
+	text-align:center;
+}
+
+.borda-simples2 {
+	border: 1px solid #000;
+}
+
+
+
+
